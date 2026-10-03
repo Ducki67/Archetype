@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Archetype/FortniteClient-Win64-Shipping.vcxproj" Id="0d6586f1-3170-46e2-8a93-be47b7550cfd" />
+</Solution>
