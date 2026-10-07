@@ -40,3 +40,13 @@ This will come later on when i get every if not most versions working with my Ow
 *See at: [Patches](Patches.md) md  file*
 
 
+## About Byfron/Hyperion
+
+**Byfron** is the company name, and **Hyperion** is their specialized **anti-tamper** solution. It acts like a digital shield, encrypting game files to stop hackers and data miners from reverse-engineering the game or injecting cheat codes.
+
+Here is the quick breakdown of its short lifespan in Fortnite:
+
+- **Why Epic added it (v21.20):** In July 2022, Epic Games layered Hyperion on top of EasyAntiCheat and BattlEye. They did this specifically to stop data miners from leaking upcoming seasonal content and to block premium, memory-injecting cheat menus before they could even launch.
+  
+- **Why it was removed (v22.20):** It didn't fail—it got bought out. In October 2022, Roblox completely acquired Byfron Technologies to fix their own massive exploit problem. Because Roblox bought the company and its tech + by the end it caused some performance issues in Fortnite, Epic could no longer use it and had to quietly strip it from Fortnite's files.
+
