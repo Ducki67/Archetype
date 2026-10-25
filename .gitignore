@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.db
+*.ipch
+
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.exp
+*.lib
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+*.idb
+*.dt.module.json
+*.dt.module.json.command
+*.dt.d.json
+vcpkg.applocal.log
+
+# Binaries
+*.exe
+*.dll
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
